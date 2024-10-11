@@ -1,7 +1,0 @@
-TOBI:
-Name der Automatisierungsanlage
-Bauteilliste der Automatisierungsanlge
-Genauer Name des Boards, geg. DK2, C oder F ?
-
-
-EMANUEL
